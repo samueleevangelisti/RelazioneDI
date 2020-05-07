@@ -6,6 +6,24 @@ Nel corso di questa relazione i suoi autori si sono impegnati nella ricerca di i
 
 Come caso di studio è stato scelto l’Istituto di Istruzione Superiore Belluzzi-Fioravanti della città di Bologna.
 
+## Contenuti
+
+1. Evoluzione dell'Insegnamento dell'Informatica
+   1. Scopi
+   1. Quantità di Ore
+   1. Materiali di Riferimento
+   1. Laboratori
+1. Aspetti Informatici
+   1. Argomenti Trattati
+   1. Osservazioni sui Contenuti
+1. Osservazioni sui Materiali e Laboratori
+1. Aspetti Pedagogici e Didattici
+   1. Riscontro della Consapevolezza di un Metodo
+   1. Pratica Riconducibile a una Metodologia
+   1. Altro
+1. Conclusioni
+1. Riferimenti
+
 ## Autori
 
 - [Samuele Evangelisti](https://github.com/samueleevangelisti)
