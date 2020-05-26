@@ -22,7 +22,8 @@ Come caso di studio è stato scelto l’Istituto di Istruzione Superiore Belluzz
    1. Pratica Riconducibile a una Metodologia
    1. Altro
 1. Conclusioni
-1. Riferimenti
+1. Referenze
+1. Licenza
 
 ## Autori
 
