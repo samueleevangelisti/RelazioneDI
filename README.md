@@ -16,7 +16,7 @@ Come caso di studio è stato scelto l’Istituto di Istruzione Superiore Belluzz
 1. Aspetti Informatici
    1. Argomenti Trattati
    1. Osservazioni sui Contenuti
-1. Osservazioni sui Materiali e Laboratori
+   1. Osservazioni sui Materiali e Laboratori
 1. Aspetti Pedagogici e Didattici
    1. Riscontro della Consapevolezza di un Metodo
    1. Pratica Riconducibile a una Metodologia
